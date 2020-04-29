@@ -1,3 +1,4 @@
 # Britta's Thesis
 
-Ja, so sieht sie aus.
+Dies ist ein Übungsrepositorium. 
+Es ist noch nicht das Repositorium, das für die Aufgabe erstellt wird.
