@@ -1,3 +1,3 @@
 # Britta's Thesis
 
-Author: Britta Lelgemann
+Author: Britta Maria Lelgemann
